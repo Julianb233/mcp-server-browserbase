@@ -302,3 +302,4 @@ cython_debug/
 
 # Agent workspace artifacts
 .codex/
+AGENTS.md
