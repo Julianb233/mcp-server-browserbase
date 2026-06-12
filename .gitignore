@@ -299,3 +299,6 @@ cython_debug/
 .mcpregistry_github_token
 .mcpregistry_registry_token.codex/
 .hermes/
+
+# Agent workspace artifacts
+.codex/
